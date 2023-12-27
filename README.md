@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-MahekAgar/MahekAgar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahek_ag/Mahek_ag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
